@@ -50,3 +50,4 @@ print("Variance:", np.var(weight_kg), "\n----")
 #Histogram
 
 plt.hist(height_cm, 16)
+plt.show()
